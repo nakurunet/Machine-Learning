@@ -1,2 +1,4 @@
 # Machine-Learning
-__Machine Learning Projects__
+Projects
+
+__Various projects that use Machine Learning __
