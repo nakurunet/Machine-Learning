@@ -1,4 +1,4 @@
 # Machine-Learning
 Projects
 
-__Various projects that use Machine Learning __
+__Various projects that uses Machine Learning  concepts__
